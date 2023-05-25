@@ -1,0 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/marcosoliveiradsa/repositorio3/main/guide.xml"
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD¹" tvg-logo="https://i.ibb.co/82gV9vj/SPORTV.png" group-title="Belo Horizonte/MG  SporTV 3 HD ³",Belo Horizonte/MG  SporTV 3 HD ³
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://i.ibb.co/82gV9vj/SPORTV.png" group-title="SporTV 3 ",SporTV 3 
+EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="https://i.ibb.co/82gV9vj/SPORTV.png" group-title="SporTV 3",SporTV 3

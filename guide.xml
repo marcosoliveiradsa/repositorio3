@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Belo Horizonte/MG  SporTV 3 HD ³">
+    <display-name lang="pt">Belo Horizonte/MG  SporTV 3 HD ³</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV 3 ">
+    <display-name lang="pt">SporTV 3 </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3">
+    <display-name lang="pt">SporTV 3</display-name>
+    <icon src="https://www.lineup.tv.br/canais/cnt-rs.gif|https://www.lineup.tv.br/canais/cnt.gif|https://www.lineup.tv.br/canais/1618530317.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
